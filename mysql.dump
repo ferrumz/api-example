@@ -1,0 +1,5 @@
+CREATE TABLE `payloads` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `payload` text,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=38883 DEFAULT CHARSET=utf8
